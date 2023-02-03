@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilay Raval</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img aline = "right" alt="coding" width="400" src="https://imgs.search.brave.com/GnwXOM5lsDY-1MXk8Bpemom61cUXcHFHf_zoiuCNhwc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS81/ZGRmNzNhZDNhMjA1/MTExY2Y4YzY4NmY2/ODdmYzIxNmMyOTQ2/YTc1MDA1NzE4Yzhk/YTViODM3YWQ5ZGU3/OGM5LzY4NzQ3NDcw/NzMzYTJmMmY3NDY4/NzU2ZDYyNzMyZTY3/NjY3OTYzNjE3NDJl/NjM2ZjZkMmY0NTc2/Njk2YzRlNjU3ODc0/NDQ2NTc2Njk2YzY2/Njk3MzY4MmQ3MzZk/NjE2YzZjMmU2NzY5/NjY">
+<img align = "right" alt="coding" width="400" src="https://imgs.search.brave.com/GnwXOM5lsDY-1MXk8Bpemom61cUXcHFHf_zoiuCNhwc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS81/ZGRmNzNhZDNhMjA1/MTExY2Y4YzY4NmY2/ODdmYzIxNmMyOTQ2/YTc1MDA1NzE4Yzhk/YTViODM3YWQ5ZGU3/OGM5LzY4NzQ3NDcw/NzMzYTJmMmY3NDY4/NzU2ZDYyNzMyZTY3/NjY3OTYzNjE3NDJl/NjM2ZjZkMmY0NTc2/Njk2YzRlNjU3ODc0/NDQ2NTc2Njk2YzY2/Njk3MzY4MmQ3MzZk/NjE2YzZjMmU2NzY5/NjY">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilayraval&label=Profile%20views&color=0e75b6&style=flat" alt="nilayraval" /> </p>
 
